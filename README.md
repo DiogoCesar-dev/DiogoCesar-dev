@@ -4,7 +4,7 @@
 📝 Aprendendo C# / .NET
 
 
-<div align="center">
+<div>
   <a href="https://github.com/DiogoCesar-dev">
     <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=DiogoCesar-dev&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast&hide_border=false&show_owner=true" />
   </a>
