@@ -1,7 +1,7 @@
 
-#### Eu sou Diogo Cesar 
-💻 Sou um entusiasta por programação, buscando explorar e aprender novas tecnologias e soluções.<br>
-📝 Aprendendo C# / .NET
+#### I am Diogo Cesar
+💻 I am a programming enthusiast, seeking to explore and learn new technologies and solutions.<br>
+📝 Learning Java
 
 
 <div>
@@ -16,20 +16,17 @@
 ## Skills
 
 #### Main :
-<img src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
+![html5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
+![js](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
 
 #### studying:
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />&nbsp;
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
-
-## Contatos:
+## Contacts:
 
 <div> 
 <a href="https://www.instagram.com/diogoo_065"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
