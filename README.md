@@ -24,7 +24,8 @@
 
 
 #### studying:
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)&nbsp;
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ## Contacts:
 
